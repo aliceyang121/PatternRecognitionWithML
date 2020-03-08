@@ -1,0 +1,202 @@
+﻿,Patient Acct #,First Name,MI,Last Name,Date of Birth,Sex,Current Street 1,Current Street 2,Current City,Current State,Current Zip Code,Previous First Name,Previous MI,Previous Last Name,Previous Street 1,Previous Street 2,Previous City,Previous State,Previous Zip Code
+0,247028705-7,sutton,J,power,9/20/1945,M,1858 sullivan parkwy,0,fresno,CA,93726,0,0,0,2 erie crossing, 9,mount vernon,NY,10557
+1,0,suttin,J,power,9/21/1945,M,1859 sullivan parkwy,2,fresno,CA,93726,0,0,0,2 erie crossing,  9,mount vernon,NY,10557
+2,247028705-7,sutton,J,power,9/20/1945,M,1858 sullivan parkwy,0,fresno,CA,93726,0,0,0,0,0,0,0,0
+3,0,sutton,0,power,9/20/1954,M,1858 sullivan parkwy,0,fresno,CA,93726,0,0,0,0,0,0,0,0
+4,0,sutton,0,power,9/20/1954,M,1858 sullivan pkway, 2,fresno,CA,93726,0,0,0,0,0,0,0,0
+5,0,sutton,0,powers,12/15/2000,F,1619 maple lane,0,fresno,CA,93726,sutton,0,lore,0,0,0,0,0
+6,0,sutton,0,powers,12/15/2000,F,1619 maple lane,0,fresno,CA,93726,0,0,0,0,0,0,0,0
+7,757393348-7,mikel,L,trayton,9/20/2000,M,715 jana point,0,apache junction,AZ,85219,0,0,0,81089 kenwood park,0,chattanooga,TN,37416
+8,757393348-7,mikel,L,trayton,9/20/2000,M,715 jana point,0,apache junction,AZ,85219,0,0,0,81089 kenwood park,0,chattanooga,TN,37416
+9,757393348-7,michael,0,trayton,9/20/2000,M,715 jana point,0,apache junction,AZ,85219,0,0,0,81089 kenwood park,7,chattanooga,TN,37416
+10,0,mike,0,trayton,9/2/2000,M,715 jana point,0,apache junction,AZ,85219,0,0,0,0,0,0,0,0
+11,757393348-7,mikel,0,trayton,9/20/2000,M,715 jana point,0,apache junction,AZ,85219,0,0,0,0,0,0,0,0
+12,0,mikel,L,trayton,9/20/2000,F,715 jana point,  ,apache junction,AZ,85219,0,0,0,0,0,0,0,0
+13,930819916-0,dalia,0,bibb,12/7/1939,F,78 talmadge drive,0,jamaica,NY,11447,0,0,0,389 hollow ridge pass, 24,macon,GA,31205
+14,0,dalia,0,bibb,12/7/1939,F,78 talmadge drive,0,jamaica,NY,11447,0,0,0,0,0,0,0,0
+15,887103871-1,myrvyn,0,buddock,4/11/1946,M,264 judy pass,0,anaheim,CA,92812,0,0,0,02 sauthoff park, 587,cincinnati,OH,45208
+16,0,mervin,T,buddock,4/11/1946,M,264 judy pass,0,anaheim,CA,92812,0,0,0,0,0,0,0,0
+17,0,myrvin,0,buddock,4/11/1946,M,264 judy pass,0,anaheim,CA,92812,0,0,0,0,0,0,0,0
+18,0,mervyn,0,buddock,4/11/1946,M,264 judy pass,0,anaheim,CA,92812,0,0,0,02-sauthoff park, 587,cincinnati,OH,45208
+19,0,mervin,0,buddock,12/15/2000,M,251030 golf bolling,0,anaheim,CA,92812,0,0,0,0,0,0,0,0
+20,146899396-8,cammy,0,windless,4/18/1984,F,142 summer ridge place,0,fresno,CA,93709,0,0,0,0,0,0,0,0
+21,CAM123,cam,0,windless,4/18/1984,F,142 summer ridge place,0,fresno,CA,93709,cam,0,windless,0,0,0,0,0
+22,0,cameron,0,windles,4/18/1984,F,142 summer ridge place,0,fresno,CA,93709,0,0,0,1 merchant hill,3539,brooklyn,NY,11220
+23,075148803-8,elenore,0,macdonnell,12/16/1950,F,549 pearson plaza,0,atlanta,GA,31106,0,0,0,170 hanson alley, 5096,el paso,TX,88535
+24,075148803-8,elenor,0,mcdonnell,12/6/1950,F,549 pearson plaza,0,atlanta,GA,31106,elenor,J,mcdonnell,0,0,0,0,0
+25,075148803-8,elenora,0,macdonel,12/16/1950,F,549 pearson plaza,0,atlanta,GA,31106,0,0,0,170 hanson alley ste 5096,0,el paso,TX,88535
+26,111421375-6,janet,0,biasini,9/28/1949,F,9083 pennsylvania parkwy,0,raleigh,NC,27615,0,0,0,7350 calypso alley,263,youngstown,OH,44511
+27,0,janet,0,bisini,9/28/1949,F,9083 pennsylvania parkwy,0,raleigh,NC,27615,janet,0,thompsen,7350 calypso alley,263,youngstown,OH,44511
+28,303748859-X,darby,0,steinson,6/14/1991,M,1587 shopko parkwy apt 200,0,houston,TX,77035,0,0,0,4 morningstar drive,3,los angeles,CA,90060
+29,0,darbie,0,steiinson,6/14/1991,M,1587 shopko parkwy, 200,houston,TX,77035,0,0,0,0,0,0,0,0
+30,442427087-4,maynard,0,skirvan,4/24/2007,M,485 hanson street e,0,phoenix,AZ,85010,0,0,0,1432 kings avenue,5833,jacksonville,FL,32209
+31,0,maynard,0,skirvanne,4/14/2007,M,485 hanson st.,0,phoenix,AZ,85010,0,0,0,0,0,0,0,0
+32,99MaynSK,maynard,0,skiirvane,4/24/2007,M,485 hanson street east,0,phoenix,AZ,85010,0,0,0,0,0,0,0,0
+33,MAYN0001,maynard,0,skirvane,4/24/2007,F,485 hanson street,0,phoenix,AZ,85010,john,T,skirvane,1432 kings avenue,5833,jacksonville,FL,32209
+34,0,dante,0,willder,4/25/1990,M,0,0,flint,MI,48550,0,0,0,0,0,0,0,0
+35,0,dante,0,wild,4/25/1990,M,0,0,flint,MI,48550,0,0,0,0,0,0,0,0
+36,942681966-5,rena,0,hawkshaw,5/17/2000,F,637 ryan crossing,0,pinellas park,FL,34665,0,0,0,4519 brentwood road,42,greensboro,NC,27415
+37,732247743-X,annetta,0,delamere,9/27/2000,F,8178 talisman center,0,mesa,AZ,85205,annetta,0,lopez,6 russell crossing,5,honolulu,HI,96820
+38,732247743-X,anne,0,delamere,9/27/2000,F,8178 talismen center,0,mesa,AZ,85205,a,0,lopes,0,0,0,0,0
+39,732247743-X,annette,0,delamere,9/27/2000,F,8178 talisman center e,0,mesa,AZ,85205,0,0,0,0,0,0,0,0
+40,732247744-X,annette,0,delmar,9/27/2000,F,9154 city view street,0,mesa,AZ,85205,0,0,0,0,0,0,0,0
+41,0,robers,0,gammade,10/12/1945,M,030 golf hill,0,charlotte,NC,28210,0,0,0,04125 northport hill,5,phoenix,AZ,85020
+42,0,robert,0,gammade,10/12/1945,M,30 golf hill,0,charlott,NC,28210,0,0,0,0,0,0,0,0
+43,0,robers,0,gamade,10/12/1945,M,030 golf hill,0,charlotte,NC,28210,0,0,0,04125 north hill,0,phoenix,AZ,85020
+44,897924785-0,robers,0,gammade,10/12/1945,M,030 golf hill,0,charlotte,NC,28210,0,0,0,04125 northport hill,0,phoenix,AZ,85020
+45,559877171-3,tobin,0,rutigliano,1/1/1970,M,82305 washington drive,0,phoenix,AZ,85083,0,0,0,1691 dahle point,66911,danbury,CT,6816
+46,0,toby,0,rutigliano,1/1/1970,M,82305 washington drive,0,phoenix,AZ,85083,0,0,0,0,0,0,0,0
+47,138224412-6,damon,0,steer,6/21/2003,M,05 eagan hill,0,myrtle beach,SC,29579,0,0,0,226 loomis place,4726,phoenix,AZ,85020
+48,DS00-1234,damon,J,steer,5/21/2003,M,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,1068DA0ST0,damon,J,steer,5/21/2003,M,05 eagan hill,1098,myrtle beach,SC,29579,0,0,0,226 loomis place,4726,phoenix,AZ,85020
+50,138224412-6,damion,0,steer,5/21/2003,M,05 eagan hill, 1098,myrtle beach,SC,29579,0,0,0,226 loomis place,4726,phoenix,AZ,85020
+51,460986706-0,francois,L,mandifield,2/9/2007,M,78169 8th lane,0,madison,WI,53726,0,0,0,3547 hoiker lane,31,huntington beach,CA,92648
+52,0,franc,0,mandifield,2/9/2007,F,78169 8th lane,0,madison,WI,53726,0,0,0,0,0,0,0,0
+53,0,francois,L,mandifield,2/8/2007,M,78169 8th ln,0,madison,WI,53726,0,0,0,0,0,0,0,0
+54,0,francois,L,mandifield,2/9/2007,M,78169 8th lane,0,madison,WI,53726,0,0,0,0,0,0,0,0
+55,460986706-0,francois,0,mandfield,2/9/2007,M,78169 8th lane,0,madison,WI,53726,0,0,0,0,0,0,0,0
+56,398245260-0,dracke,0,coslett,1/17/1973,M,49727 caliangt alley,0,boston,MA,2163,0,0,0,9835 jay road,56,fort myers,FL,33913
+57,GHT056,drake,J,coslett,1/16/1973,M,49727 caliangt alley, 4,boston,MA,2163,0,0,0,0,0,0,0,0
+58,0,drake,0,coslett,1/16/1973,F,49727 caliangt alley,0,boston,MA,2163,0,0,0,0,0,0,0,0
+59,398245260-0,drake,J,coslett,1/16/1973,M,49727 caliangt alley,4,boston,MA,2163,0,0,0,9835 jay road,56,fort myers,FL,33913
+60,0,drake,0,coslett,2/4/1972,M,15023rd ave,0,boston,MA,2163,0,0,0,9835 jay road,56,fort myers,FL,33913
+61,885793526-1,betteanne,0,purton,2/15/2009,F,59 summer ridge court,0,akron,OH,44321,0,0,0,380 gerald terrace,674,philadelphia,PA,19141
+62,769916426-1,betteanne,0,purtun,2/15/2009,F,59 summer rige court,0,akron,OH,44321,0,0,0,0,0,0,0,0
+63,0,betteanne,0,purtin,2/15/2009,F,59 summer ridge court,0,akron,OH,44321,0,0,0,380 gerald terrace,12,philadelphia,PA,19141
+64,0,betteanne,0,purten,2/15/2009,F,59 summer ridge court,0,akron,OH,44321,0,0,0,0,0,0,0,0
+65,769916426-1,betteane,0,purton,2/15/2009,F,59 summer ridge court,0,akron,OH,44321,0,0,0,0,0,0,0,0
+66,769916426-1,beteanne,0,purton,2/15/2009,F,59 sumer ridge court,0,akron,OH,44321,0,0,0,0,0,0,0,0
+67,769916426-1,betteanne,0,purton,2/15/2009,M,12 winter ridge drive,0,norka,CO,48589,0,0,0,0,0,0,0,0
+68,769916426-1,betteanne,0,purton,2/15/2009,M,12 winter ridge drive,0,norka,CO,48589,0,0,0,0,0,0,0,0
+69,719276893-6,katharina,0,stopper,3/19/1960,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,96 helena crossing,61395,cincinnati,OH,45228
+70,719276893-1,katharina,0,stopper,3/19/1860,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,0,0,0,0,0
+71,0,katharina,0,stopper,3/19/1960,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,0,0,0,0,0
+72,0,katharina,0,stopper,3/19/1960,F,61256 merick place,0,albuquerque,NM,87190,0,0,0,0,0,0,0,0
+73,0,katharin,0,stopper,3/19/1960,F,61256 merrick place,0,albuquerque,NM,87191,0,0,0,96 helena crossing,61395,cincinnati,OH,45228
+74,0,katharina,0,stopper,4/21/1950,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,96 helena crossing,61395,cincinnati,OH,45228
+75,719276893-6,katharina,0,stoper,4/21/1950,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,0,0,0,0,0
+76,719276893-6,katarina,0,stopper,4/21/1950,F,61256 merrick place,0,albuquerque,MN,87190,0,0,0,0,0,0,0,0
+77,0,katherine,0,stopper,4/21/1950,F,61256 merrick place,0,albuquerque,NM,87190,0,0,0,0,0,0,0,0
+78,180013025-2,kimberley,0,lygoe,3/24/1999,F,85 stuart crossing,0,glendale,AZ,85305,kimberley,0,rhodes,6944 spohn drive,242,joliet,IL,60435
+79,0,kimberley,0,lygoe,3/24/1999,F,85 stuart crossing,0,glendale,AZ,85305,0,0,0,0,0,0,0,0
+80,0,kimberley,0,lygoe,3/24/1998,F,85 stuart crossing,0,glendale,AZ,85305,0,0,0,0,0,0,0,0
+81,0,kimberly,0,lygoe,3/24/1999,F,85 stuart crossing,0,glendale,AZ,85305,0,0,rhodes,0,0,0,0,0
+82,180013025-2,kim,0,lygoe,3/24/1999,F,85 stuart crossing,0,glendale,AZ,85304,0,0,0,0,0,0,0,0
+83,0,kimberley,0,lygoe,3/24/1999,F,15 first,0,glendale,CA,92872,0,0,0,0,0,0,0,0
+84,0,kimberlie,0,lygoe,3/24/1999,F,15 first,0,glendale,CA,92872,0,0,0,0,0,0,0,0
+85,0,kimberlay,0,lygoe,3/24/1999,F,15 first,0,glendale,CA,92872,0,0,0,0,0,0,0,0
+86,010254924-9,pasquale,0,beevers,2/9/1980,M,37300 talisman road,0,honolulu,HI,96810,0,0,0,99 buena vista street,3,el paso,TX,88589
+87,0,pascale,0,beevers,2/9/1980,M,37300 talisman road,0,honolulu,HI,96810,0,0,0,0,0,0,0,0
+88,0,pasquale,0,beavers,2/9/1980,M,37300 talisman road,0,honolulu,HI,96810,0,0,0,0,0,0,0,0
+89,0,pasquale,0,beevers,2/9/1980,M,37300 talisman road,0,honolulu,HI,96810,0,0,0,0,0,0,0,0
+90,0,pasquale,0,beevers,2/9/1981,M,37300 talisman road,0,honolulu,HI,96810,0,0,0,0,0,0,0,0
+91,0,pasquale,0,beevers,2/9/1980,M,37300 tallisman road,0,honolulu,HI,96820,0,0,0,0,0,0,0,0
+92,010254924-9,pasquale,0,beevers,3/9/1990,M,99 buena vista street,3,el paso,TX,88589,0,0,0,0,0,0,0,0
+93,010254924-9,pasquale,0,beevers,3/9/1990,M,99 buena vista street,3,del paso,TX,88589,0,0,0,0,0,0,0,0
+94,526018256-1,byrom,0,vanini,11/8/1985,M,9 bellgrove street,0,silver spring,MD,20904,0,0,0,450 birchwood way,873,greenville,SC,29615
+95,526018256-1,birom,0,vanini,11/8/1985,M,9 bellgrove street,0,silver spring,MD,20904,0,0,0,450 birchwood way,873,greenville,SC,29615
+96,0,byrom,0,vanini,11/8/1989,M,9 bellgrove street,0,silver spring,MD,20904,0,0,0,0,0,0,0,0
+97,0,byrom,0,vanini,11/8/1985,M,9 belgrove street,0,silver spring,MD,20904,0,0,0,0,0,0,0,0
+98,526018256-1,byrom,0,vanini,11/8/1985,M,9 ballgrove street,0,silver spring,MD,20904,0,0,0,0,0,0,0,0
+99,526018256-1,byrom,0,vanini,2/29/1963,F,84732 sirenhill,0,lucid lake,ME,58963,0,0,0,0,0,0,0,0
+100,0,byron,0,vanini,2/28/1963,F,84732 sirenhill,0,lucid lake,ME,58963,0,0,0,0,0,0,0,0
+101,0,byrom,0,vannini,2/28/1963,F,84732 sirenhill,0,lucid lake,0,58963,0,0,0,0,0,0,0,0
+102,603359191-7,karlotta,0,macgray,5/4/2008,F,987 loomis junction,0,san antonio,TX,78205,0,0,0,1 mockingbird pass,3720,san diego,CA,92176
+103,0,karlotta,0,macgray,5/4/2008,F,987 lomis junction,0,san antonio,TX,78205,0,0,0,0,0,0,0,0
+104,0,karlotta,0,macgray,5/4/2008,F,987 loomis junction,0,san antonio,TX,78205,0,0,0,0,0,0,0,0
+105,0,karlota,0,macgrey,5/4/2008,F,987 loomis junction,0,san antonio,TX,78205,0,0,0,0,0,0,0,0
+106,4585458552-9,karlotta,0,macgray,5/4/2008,M,212 bluejay way,0,san diego,CA,92176,0,0,0,0,0,0,0,0
+107,0,karlotta,0,mcgray,5/4/2008,M,211 bluejay way,0,san diego,CA,92176,0,0,0,0,0,0,0,0
+108,569440588-9,pauli,0,fairclough,10/28/1987,F,90841 crest line center,0,salt lake city,UT,84135,0,0,0,2 veith trail,30281,fresno,CA,93715
+109,0,palli,0,fairclough,10/28/1987,F,90841 crest line center,0,salt lake city,UT,84135,0,0,0,0,0,0,0,0
+110,0,pauli,0,fairclow,10/28/1987,F,90841 crest line center,0,salt lake city,UT,84135,0,0,0,0,0,0,0,0
+111,0,pauli,0,fairclough,11/28/1987,F,90841 crest line center,0,salt lake city,UT,84135,0,0,0,0,0,0,0,0
+112,0,pauli,0,faircough,10/28/1987,F,90841 crest line circle,0,salt lake city,UT,84135,0,0,0,0,0,0,0,0
+113,569440588-9,pauli,0,fairclough,10/28/1987,F,38493 crust circle lane,0,fresh water city,NM,78594,0,0,0,0,0,0,0,0
+114,620721423-4,kirbee,0,hartles,11/21/1973,F,39148 service circle,0,lexington,KY,40505,0,0,0,451 vahlen park,84923,tulsa,OK,74149
+115,0,kirby,0,heartles,11/21/1973,F,39148 service circle,0,lexington,KY,40505,0,0,0,0,0,0,0,0
+116,0,kirbee,0,hartless,11/21/1973,F,39148 service circle,0,lexington,KY,40505,0,0,0,0,0,0,0,0
+117,0,kirbee,0,hartles,11/21/1973,F,38148 service circle,0,lexington,KY,40505,0,0,0,451 vahlen park,81923,tulsa,OK,74149
+118,620721423-4,kirbee,0,hartles,11/21/1973,M,83940 dragonfruit,0,orange county,NY,40505,0,0,0,451 vahlen park,84923,tulsa,OK,74149
+119,0,kirbee,0,hartles,11/21/1973,M,83940 dragonfruit,0,oc,NY,40505,0,0,0,0,0,0,0,0
+120,0,kirbee,0,hartles,11/21/1973,M,83940 dragonfruit,0,orange,NY,40505,0,0,0,0,0,0,0,0
+121,544443245-5,tammie,0,badman,8/9/1953,F,79 graceland junction,0,spartanburg,SC,29319,0,0,0,764 kipling trail,379,louisville,KY,40210
+122,0,tamie,0,badman,8/9/1953,F,79 graceland junction,0,spartanburg,SC,29319,0,0,0,0,0,0,0,0
+123,0,tammy,0,badman,8/9/1953,F,79 graceland junction,0,spartanberg,SC,29319,0,0,0,0,0,0,0,0
+124,0,tammey,0,badmann,8/9/1953,F,79 graceland junction,0,spartanburg,SC,29319,0,0,0,0,0,0,0,0
+125,0,tammie,0,bedmen,8/9/1953,F,79 graceland junction,0,spartenburg,SC,29319,0,0,0,0,0,0,0,0
+126,544443245-1,tammie,0,badman,8/9/1953,F,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,0,tamy,0,badman,8/9/1953,F,23 lyche,0,dalas,TX,18578,0,0,0,0,0,0,0,0
+128,0,tammie,0,badman,8/9/1953,F,23 lychee,0,dallas,TX,18578,0,0,0,0,0,0,0,0
+129,307591784-2,cheston,0,browne,7/1/1968,M,057 manitowish parkwy,0,san jose,CA,95133,0,0,0,64214 oneill lane,97372,jamaica,NY,11480
+130,0,cheston,0,brown,7/1/1968,M,057 manitowish parkwy,0,san jose,CA,95133,0,0,0,0,0,0,0,0
+131,0,cheston,0,browne,7/11/1968,M,057 mantowish parkwy,0,san jose,CA,95133,0,0,0,0,0,0,0,0
+132,0,cheston,0,browne,7/1/1968,M,057 manitowish parkwy,0,san jose,CA,95133,0,0,0,64214 oneil lane,97372,jamaica,NY,11480
+133,307591784-2,cheston,0,browne,2/14/1952,F,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,0,cheston,0,browne,2/14/1952,F,132 choccolate circle,0,hershey,PA,93938,0,0,0,0,0,0,0,0
+135,0,cheston,0,brown,2/14/1952,F,132 chocolate cir,0,hershy,PA,93938,0,0,0,0,0,0,0,0
+136,0,chesten,0,brownie,2/14/1952,F,132 chocolate circle,0,hershey,PA,93938,0,0,0,0,0,0,0,0
+137,463188026-0,worthington,0,wrixon,5/4/1972,M,05342 sunfield drive,0,san diego,CA,92145,0,0,0,769 calypso drive,9,atlanta,GA,30392
+138,0,worthingten,0,wixon,5/4/1972,M,05342 sunfield drive,0,san diego,CA,92145,0,0,0,769 calipso drive,9,atlanta,GA,30392
+139,0,worthington,0,wrixon,5/4/1973,M,05352 sunfield drive,0,san diego,CA,92145,0,0,0,0,0,0,GA,30392
+140,0,worthington,0,wrixon,5/4/1972,M,05342 sunfield drive,0,san diego,CA,92145,0,0,0,0,0,0,0,0
+141,0,worthington,0,wrixon,5/4/1972,M,05342 sunfield drive,0,san diego,CA,92145,0,0,0,0,0,0,0,0
+142,0,worthington,0,wrixen,5/4/1972,M,05342 sunfield drive,0,san diego,CA,92145,0,0,0,769 calypso drive,9,atlanta,GA,30392
+143,0,worthington,0,wrixon,10/31/1960,F,84093 lemon,117,irvine,CA,92618,0,0,0,0,0,0,0,0
+144,0,worthington,0,wrizon,10/31/1960,F,84093 lemon,117,irvine,CA,92618,0,0,0,0,0,0,0,0
+145,0,worthinton,0,wrixon,10/31/1960,F,84093 lemon,117,irvine,CA,92618,0,0,0,0,0,0,0,0
+146,668476347-3,raye,0,gatenby,3/29/1941,F,10 memorial road,0,omaha,NE,68164,0,0,0,700 roth hill,1910,amarillo,TX,79188
+147,659476382,raye,0,gatenby,3/29/1941,F,10 memorial rd,0,omaha,NE,0,0,0,0,700 roth hill apt1910,0,amarillo,TX,0
+148,0,ray,0,gatenbie,3/29/1941,F,10 memorial st,0,omaha,NE,68164,0,0,0,700 roth hill,1910,amarillo,TX,79188
+149,0,raye,0,gatenby,4/29/1941,F,10 memorial road,0,omaha,0,68164,0,0,0,700 roth hill,0,amarillo,0,79188
+150,862216275-3,konstantin,S,kordt,8/28/1938,M,942 homewood street,0,salt lake city,UT,84115,0,0,0,6 charing cross court,15504,dayton,OH,45419
+151,0,konstantin,S,kordt,8/28/1938,U,0,0,salt lake city,UT,84115,0,0,0,0,0,0,0,45419
+152,0,konstantin,S,kordt,8/28/1938,U,942 homewood st,0,0,UT,84115,0,0,0,6 charing cross ct, 15504,dayton,OH,0
+153,5887481125,konstentin,0,kort,8/28/1939,0,942 homewood street,0,salt lake city,UT,84115,0,0,0,6 charing cross court apt 15504,0,dayton,OH,45419
+154,570925745-1,ailsun,0,dovydenas,6/25/1937,F,1 bowman junction,0,austin,TX,78749,0,0,0,4004 fulton junction,2577,long beach,CA,90810
+155,584213133,alison,J,dovydenas,6/25/1937,0,1 bowman junction,0,austin,TX,78749,victoria,0,tuttle,2614 frosty lane,0,long beach,CA,90810
+156,884123551-1,ailsun,J,0,6/25/1937,F,0,0,austin,TX,78749,0,0,0,0,0,long beach,CA,90810
+157,0,ailsun,0,dovydenas,6/25/1937,F,1 bowman junction,1412,austin,TX,78749,0,0,0,4004 fulton junction apt2577,0,long beach,CA,90810
+158,497286899-6,dionne,0,cockcroft,6/25/1988,F,97576 parkside place,0,tulsa,OK,74108,0,0,0,9 melby alley,96,huntsville,TX,77343
+159,0,diane,0,cockcroft,6/25/1988,0,97576 parkside pl,0,tulsa,OK,74108,0,0,0,9 melby alley,0,huntsville,TX,77343
+160,497286899-6,dionne,0,cockcroft,6/28/198+,F,97576 parkside place,0,tulsa,OK,74108,0,0,0,9 melby alley,96,huntsville,TX,77343
+161,826795742-1,hastings,0,meggison,10/31/1936,M,7 forest run parkwy,0,dallas,TX,75342,0,0,0,1778 helena parkwy,56,tulsa,OK,74116
+162,0,meggison,0,hastings,10/31/1936,0,7 forest run parkwy,0,dales,TX,75342,0,0,0,1778 helena parkwy apt 56,0,tulsa,OK,74116
+163,0,hastings,0,meggison,10/31/1936,M,7 forest run parkwy,0,dallas,TX,75342,0,0,0,1778 helena parkwy,56,tulsa,OK,74116
+164,0,hastings,0,megison,10/31/1936,M,0,0,dallas,TX,75342,0,0,0,1778 helena parkwy,0,tulsa,OK,74116
+165,0,hastings,K,meggison,10/31/1955,F,1511 meadow view dr,0,hartford,CT,6182,0,0,0,0,0,tulsa,OK,74116
+166,284308577-2,flori,0,matuskiewicz,5/20/1984,F,45863 gerald pass,0,grand rapids,MI,49518,flori,0,williamson,628 portage street,954,bakersfield,CA,93399
+167,0,flori,0,matsukiwicks,5/20/1984,0,45863 gerald pass,0,grand rapids,MI,0,0,0,0,0,0,0,0,0
+168,155349524-1,anne-marie,0,keig,8/15/1932,F,474 annamark avenue,0,conroe,TX,77305,0,0,0,94007 golf course hill,139,montgomery,AL,36119
+169,458746512,anne,0,keig,8/15/1935,F,474 annamark ave,0,conroe,TX,77305,0,0,0,94007 golf course hill apt 139,0,montgomery,AL,36119
+170,0,anne,M,keig,8/15/1932,0,474 annamark ave,0,0,TX,77305,0,0,0,94007 golf course hill,0,montgomery,AL,36119
+171,404591211-8,berti,0,lockie,11/13/1983,F,2729 springs junction,0,arlington,VA,22234,0,0,0,5 sloan crossing,401,dallas,TX,75342
+172,0,berti,0,lockee,11/13/1983,0,2729 springs junction,0,arlington,VA,0,0,0,0,5 sloan crossing,0,dallas,TX,0
+173,0,berti,0,locki,11/13/1983,F,2729 springs junction,0,arlington,VA,22234,0,0,0,5 sloan crossing,401,dallas,TX,75342
+174,48521534889,berti,0,lockie,10/13/19/3,F,2729 springs junction,0,arlinton,VA,22234,0,0,0,5 sloan crossing,401,dallas,TX,75342
+175,265234041-7,zarah,0,dake,6/29/2010,F,334 pearson lane,0,stockton,CA,95219,michael,0,dake,8305 park meadow crossing,7,minneapolis,MN,55480
+176,0,sarah,0,dake,6/29/2010,F,334 pearson ln,0,stockton,0,95219,0,0,0,8305 park meadow crossing, 7,mineapolis,0,55480
+177,265234041-7,sara,0,drake,6/29/2010,0,334 pearson ln,0,stockton,CA,0,0,0,0,8305 park meadow crossing,0,minneapolis,MN,0
+178,361284643-4,madison,G,pybus,12/30/1937,M,14 cardinal terrace,0,portland,OR,97211,0,0,0,121 emmet way,615,sioux city,IA,51110
+179,0,maddie,G,pybus,12/30/1937,0,14 cardinal terace,0,pdx,OR,9721,0,0,0,121 emmet way,0,sioux city,IA,51110
+180,584121154-1,madison,0,p,12/20/1937,0,14 cardinal terrace,0,portland,PR,0,0,0,0,0,0,0,IA,0
+181,0,madison,0,piebus,12/30/1937,M,14 cardinal terrace,0,portland,OR,97211,0,0,0,121 emmet way,615,sioux city,IA,51110
+182,488721348,madison,Q,pybus,5/24/2013,F,4454 spadafore dr,0,vancouver,WA,98683,0,0,0,0,0,0,0,0
+183,101138829-4,early,0,burnyeat,9/26/1991,0,66 pierstorff ave,0,new castle,PA,16107,0,0,0,0,0,0,0,0
+184,101518532,earlie,J,burnyeat,9/26/1991,0,66 pierstorff avenue,0,new castle,PA,16107,0,0,0,0,0,0,0,0
+185,101138829-6,hearly,J,burniet,9/26/19991,0,66 pierstorff ave, 569,new castle,PA,1610,0,0,0,0,0,0,0,0
+186,PAT10222JV,j,0,vu,12/15/1970,F,1619 78th road,0,vancouver,WA,98683,0,0,0,0,0,0,0,0
+187,PAT10222JV,j,0,vu,12/15/1970,F,1619 78th rd,0,vancouver,WA,98683,0,0,0,0,0,0,0,0
+188,0,ja,0,vue,12/15/1970,F,1619 78th rode,0,vancouver,WA,98683,0,0,0,0,0,0,0,0
+189,0,jah,0,vu,12/15/1970,F,1619 78th roed,0,vancouver,WA,98683,0,0,0,0,0,0,0,0
+190,1000TF1,t.j.,S,fry,5/5/1986,F,12405 teiter heights e,0,kelso,WA,98626,0,0,0,0,0,0,0,0
+191,0,t-jay,S,fry,5/5/1986,F,12405 teiter heights e,0,kelso,WA,98626,0,0,0,0,0,0,0,0
+192,0,t-j,S,frye,5/5/1986,F,12405 teiter heights e,0,kelso,WA,98626,0,0,0,0,0,0,0,0
+193,0,tj,S,fry,5/5/1986,F,12405 teiter heights e,0,kelso,WA,98626,0,0,0,0,0,0,0,0
+194,0,todd,0,jones,12/1/2015,M,15424 jeffies lane, 2,vancouver,WA,98683,0,0,0,0,0,0,0,0
+195,0,tom,0,jones,12/1/2015,M,15424 jeffies lane, 2,vancouver,WA,98683,0,0,0,0,0,0,0,0
+196,0,bill,0,smith,5/16/1972,M,16595 city view lane,0,vancouver,WA,98684,0,0,0,0,0,0,0,0
+197,0,bill,0,smith,5/16/1972,M,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,0,sarah,0,field,3/17/2010,F,9850 kelso road,0,kelso,WA,98626,0,0,0,0,0,0,0,0
+199,0,sara,0,field,3/17/2010,F,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,0,sara,0,field,3/17/2010,F,0,0,0,0,0,0,0,0,0,0,0,0,0
